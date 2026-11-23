@@ -12,13 +12,13 @@ Article PDF: Google Drive, Personal/RL Robots.
 
 ## Plan
 
-- [ ] Read the rest of the article (16 pages)
-- [ ] Watch the playlist's first video
-- [ ] Run the Docker image (on the Mac, or ask Claude about a cloud option)
-- [ ] Training section of the Bala2 tutorial, in simulation
-- [ ] Decide on the hardware kit (optional)
-- [ ] Deployment (only with the kit)
+The checklist lives in the Project Report (tick items there):
+https://claude.ai/artifact/CHiKzZPf4KpFJDARqpttea
+
+Training runs in Google Colab: open `workspace/software/python/rl_train_bala2.ipynb`.
+Three phases: balance only; domain randomization; randomization for the physical world.
 
 ## Log
 
 - 2026-11-23: Forked, cloned in a Claude cloud session, notes started.
+- 2026-11-23: Read the article; checklist moved to the Project Report.
